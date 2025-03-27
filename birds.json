@@ -1,33 +1,5 @@
-[
-  {
-    "name": "Wood Sandpiper",
-    "description": "Medium-sized brownish wader with a white belly, varied pale spotting and spangling on back",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/253697141/900"
-  },
-  {
-    "name": "Rock Pigeon",
-    "description": "Pale gray overall with two bold black wingbars and iridescent purple and green on neck",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/308065631/900"
-  }, {
-    "name": "Alexandrine Parakeet",
-    "description": "Large and long-tailed green parakeet with a bright red beak. Female lacks male’s pink-and-black ring around the neck",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133717151/900"
-  }, {
-    "name": "Grey Heron",
-    "description": "Generally quite common and conspicuous in wetland habitats from marshes",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/254741801/900"
-  },{
-    "name": "White Wagtail",
-    "description": "Distinctive but variable: all plumages are some bold combination of black, white, and gray",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44586821/900"
-  },{
-    "name": "Indian Paradise-Flycatcher",
-    "description": "A graceful looking flycatcher, the adult male sport a long ribbonlike tail.",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133740231/900"
-  },{
-    "name": "American Kestrel",
-    "description": "In flight, note long, narrow wings and square-tipped tail.",
-    "url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/302366931/900"
-  }
- 
-]
+{
+    "home_cms": {
+        "api_cache_duration": ""
+    }
+}
